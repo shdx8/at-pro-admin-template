@@ -2,11 +2,6 @@
 
 ATPro is a fully responsive administration template. Based on pure HTML, CSS and JS. Customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
-## Preview
-
-!["ATPro admin preview"](https://raw.githubusercontent.com/trananhtuat/at-pro-admin-template/master/preview/Screenshot_1.jpg "ATPro admin preview")	
-!["ATPro admin preview"](https://raw.githubusercontent.com/trananhtuat/at-pro-admin-template/master/preview/Screenshot_3.jpg "ATPro admin preview")	
-
 ## Installation
 
 Download from [GitHub releases](https://github.com/trananhtuat/at-pro-admin-template/releases).
